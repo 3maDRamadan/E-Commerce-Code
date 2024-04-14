@@ -1,0 +1,17 @@
+/* Navbar */
+.navbar-nav li a {
+  font-size: 17px;
+}
+.navbar-brand {
+  letter-spacing: 3px;
+}
+.hero .card {
+  height: 450px;
+}
+.buttons {
+  flex-wrap: wrap;
+}
+
+.buttons button {
+  margin-top: 10px;
+}
